@@ -48,9 +48,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1] <img width="50" height="50" src="asset/S1.png"/>
+![Screenshot1] <img width="100" height="100" src="asset/S1.png"/>
 
-![Screenshot2] <img width="50" height="50" src="asset/S2.png"/>
+![Screenshot2] <img width="100" height="100" src="asset/S2.png"/>
 
 
 ![Screenshot3](Add screenshot 3 here with proper name)
