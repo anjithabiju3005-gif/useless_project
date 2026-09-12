@@ -76,7 +76,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-<video width="640" height="360" src="demo.mp4"/>
+<video width="640" height="360" src="demo.mp4">
  
 *Explain what the video demonstrates*
 
