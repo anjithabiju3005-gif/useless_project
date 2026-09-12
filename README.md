@@ -43,9 +43,9 @@ double click the "index.html" file to open and run it directly in any web browse
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1] <img width="500" height="500" src="asset/S1.png"/>
+ <img width="500" height="500" src="asset/S1.png"/>
 
-![Screenshot2] <img width="500" height="500" src="asset/S2.png"/>
+ <img width="500" height="500" src="asset/S2.png"/>
 
 
 ![Screenshot3](Add screenshot 3 here with proper name)
@@ -76,7 +76,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 *Explain what the video demonstrates*
 
 # Additional Demos
