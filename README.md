@@ -26,7 +26,7 @@ By making the remainder so annoying and funny that users actually want to drink 
 ### Technologies/Components Used
 For Software:
 - HTML
--Google Anti-gravity,notepad,web browser 
+- Google Anti-gravity,notepad,web browser 
 
 For Hardware:
 - NONE
