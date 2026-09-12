@@ -6,30 +6,30 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: De-Bug
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead:  - [College]
+- Member 2: Anjitha Biju - Ahalia school of engineering and technology
+- Member 3: Ishani Menon - Ahalia school of engineering and technology
 
 ### Project Description
-[2-3 lines about what your project does]
+The Anti-Hydration Remainder monitors daily water intake through an interactive interface, instead of encouraging users normally .Its virtual character "Droppy" gets annoyed whenever the user drinks water.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+solving a boring problem of staying hydrated by making water consumption impossible to ignore and ridiculously entertaining.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By making the remainder so annoying and funny that users actually want to drink water just to see what it does next.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+-Google Anti-gravity,notepad,web browser 
 
 For Hardware:
 - [List main components]
@@ -39,18 +39,18 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+1. copy the code into notepad
+2. save the file with an ".HTML"extension
 # Run
-[commands]
+double click the "index.html" file to open and run it directly in any web browser
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1] <img width="300" height="300" src="asset/S1.png"/>
+![Screenshot1] <img width="500" height="500" src="asset/S1.png"/>
 
-![Screenshot2] <img width="300" height="300" src="asset/S2.png"/>
+![Screenshot2] <img width="500" height="500" src="asset/S2.png"/>
 
 
 ![Screenshot3](Add screenshot 3 here with proper name)
