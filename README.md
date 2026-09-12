@@ -10,9 +10,8 @@ ANTI-WATER REMINDER 🎯
 
 
 ### Team Members
-- Team Lead:  - [College]
-- Member 2: Anjitha Biju - Ahalia school of engineering and technology
-- Member 3: Ishani Menon - Ahalia school of engineering and technology
+- Member 1: Anjitha Biju - Ahalia school of engineering and technology
+- Member 2: Ishani Menon - Ahalia school of engineering and technology
 
 ### Project Description
 The Anti-Hydration Remainder monitors daily water intake through an interactive interface, instead of encouraging users normally .Its virtual character "Droppy" gets annoyed whenever the user drinks water.
@@ -27,14 +26,10 @@ By making the remainder so annoying and funny that users actually want to drink 
 ### Technologies/Components Used
 For Software:
 - HTML
-- [Frameworks used]
-- [Libraries used]
 -Google Anti-gravity,notepad,web browser 
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- NONE
 
 ### Implementation
 For Software:
