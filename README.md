@@ -78,7 +78,6 @@ For Hardware:
 
 ### Project Demo
 # Video
-<video width="640" height="360" src="">
  
 *Explain what the video demonstrates*
 
